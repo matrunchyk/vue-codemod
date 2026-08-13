@@ -21,7 +21,7 @@
   "author": "Haoqun Jiang",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.10.3",
+    "@babel/core": "^8.0.0-rc.6",
     "@babel/preset-env": "^7.10.3",
     "@babel/types": "^7.12.12",
     "@types/jscodeshift": "^0.7.1",
